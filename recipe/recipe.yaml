@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.1"
+  version: "0.2.0"
 
 package:
   name: qiskit-mitigation
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/qiskit-mitigation/qiskit_mitigation-${{ version }}.tar.gz
-  sha256: d527ed3e5a511720394812d628163e19f67e916434e01beb96caf76b34d12ad8
+  sha256: cff6f2be4d169ec031dac41631762c042ef1ff3d2378f480c7ba6086c957f375
 
 build:
   number: 0
